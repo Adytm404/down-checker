@@ -1,0 +1,5 @@
+{
+  "name": "Site Status Checker",
+  "description": "A sleek and modern tool to check the status of any website or IP address. It provides instant results.",
+  "requestFramePermissions": []
+}
